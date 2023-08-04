@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "course_name": "Web Development 101",
+        "image_link": "https://www.nextbraintech.com/assets/admin/base/images/blog/list/411.webp",
+        "video_links": [
+            "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+            "https://www.youtube.com/watch?v=wesUO81bH0A",
+            "https://www.youtube.com/watch?v=3tDYYhRYU7w",
+            "https://www.youtube.com/watch?v=rnQ1B8xSoV4"
+        ],
+        "course_type": "free",
+        "description": "An introductory course to web development..."
+    },
+    {
+        "id": 2,
+        "course_name": "Advanced Python Programming",
+        "image_link": "https://contentstatic.techgig.com/thumb/msid-80255871,width-460,resizemode-4/Beginner-tips-to-become-a-successful-Python-developer.jpg?88712",
+        "video_links": [
+            "https://www.youtube.com/watch?v=f79MRyMsjrQ",
+            "https://www.youtube.com/watch?v=rfscVS0vtbw",
+            "https://www.youtube.com/watch?v=N5vscPTWKOk",
+            "https://www.youtube.com/watch?v=ZDa-Z5JzLYM"
+        ],
+        "course_type": "premium",
+        "description": "Dive deep into Python with advanced programming techniques..."
+    },
+    {
+        "id": 3,
+        "course_name": "Machine Learning for Beginners",
+        "image_link": "https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+        "video_links": [
+            "https://www.youtube.com/watch?v=KNAWp2S3w94",
+            "https://www.youtube.com/watch?v=JcI5Vnw0b2c",
+            "https://www.youtube.com/watch?v=aircAruvnKk",
+            "https://www.youtube.com/watch?v=qFJeN9V1ZsI"
+        ],
+        "course_type": "free",
+        "description": "Understand the basics of machine learning..."
+    },
+    {
+        "id": 4,
+        "course_name": "Mastering Data Science",
+        "image_link": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "video_links": [
+            "https://www.youtube.com/watch?v=EF5-0T9DlCM",
+            "https://www.youtube.com/watch?v=BgANZVRXwoY",
+            "https://www.youtube.com/watch?v=ye3CwZJMKWg",
+            "https://www.youtube.com/watch?v=QDaZJxHeiNg"
+        ],
+        "course_type": "premium",
+        "description": "Become a data science expert with advanced concepts..."
+    }
+]
