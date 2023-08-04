@@ -39,7 +39,7 @@ const CourseDetailPage = () => {
   }
 
   return (
-    <div className='text-black mt-[70px] flex m-4 gap-4 justify-between'>
+    <div className='text-black mt-[70px] flex m-4 gap-4  flex-col md:flex-row'>
      <div className='flex flex-col '>
      <img className="w-full h-auto mb-4" src={course.image_link} alt={course.course_name} />
       <h2 className="text-2xl font-bold mb-4">{course.course_name}</h2>

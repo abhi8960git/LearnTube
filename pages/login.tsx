@@ -24,7 +24,7 @@ const Login = () => {
   });
 
   return (
-    <div className="mt-[60px]">
+    <div className="mt-[60px] w-full flex  items-center justify-center text-center">
       <Auth
         supabaseClient={supabase}
         appearance={{ theme: ThemeSupa }}
