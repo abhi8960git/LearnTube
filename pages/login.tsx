@@ -10,7 +10,7 @@ const supabase = createClient(
 
 import React from 'react'
 
-const login = () => {
+const Login = () => {
   const router = useRouter()
   supabase.auth.onAuthStateChange(async (event: any, session: any) => {
     if (event === "SIGNED_IN") {
@@ -34,4 +34,4 @@ const login = () => {
   );
 };
 
-export default login;
+export default Login;
